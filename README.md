@@ -23,9 +23,6 @@ Program to implement the linear regression using gradient descent.
 Developed by:Javith farkhan.S 
 RegisterNumber:212221240017  
 */
-```
-
-```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -57,11 +54,8 @@ plt.plot(X,Y_pred,color='green')
 plt.show()
 
 ```
-
-
-
 ## Output:
-![Gitlogo](5.png)
+![output](5.png)
 
 
 ## Result:
